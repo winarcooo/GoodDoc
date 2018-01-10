@@ -1,12 +1,3 @@
-  .oooooo.                              .o8  oooooooooo.                       
- d8P'  `Y8b                            "888  `888'   `Y8b                      
-888            .ooooo.   .ooooo.   .oooo888   888      888  .ooooo.   .ooooo.  
-888           d88' `88b d88' `88b d88' `888   888      888 d88' `88b d88' `"Y8 
-888     ooooo 888   888 888   888 888   888   888      888 888   888 888       
-`88.    .88'  888   888 888   888 888   888   888     d88' 888   888 888   .o8 
- `Y8bood8P'   `Y8bod8P' `Y8bod8P' `Y8bod88P" o888bood8P'   `Y8bod8P' `Y8bod8P' 
- 
-
 # Project Title
 
 One Paragraph of project description goes here
